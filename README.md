@@ -1,2 +1,3 @@
 # JavaScript Algorithms
-A simple collection of various JavaScript algorithms along with my solutions to them -- for educational purposes.
+
+A collection of various algorithms solved in JavaScript by me -- for educational purposes.
