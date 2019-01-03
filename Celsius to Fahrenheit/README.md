@@ -1,3 +1,3 @@
 ## Celsius to Fahrenheit
 
-A simple function to convert cesius to fahrenheit.
+A simple function to convert celsius to fahrenheit.
