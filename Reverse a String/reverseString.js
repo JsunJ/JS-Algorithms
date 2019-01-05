@@ -11,4 +11,4 @@ function reverseString(string) {
   return newString;
 }
 
-console.log(reverseString("Jason"));
+console.log(reverseString("Jason")); // nosaJ
