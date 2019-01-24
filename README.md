@@ -1,3 +1,3 @@
 # JavaScript Algorithms
 
-A collection of my JavaScript solutions to various coding algorithms.
+An archive of my JavaScript solutions to various coding algorithms.
