@@ -25,7 +25,7 @@ function translatePigLatin(str) {
   return (str = splitStr.join("").concat("ay"));
 }
 
-console.log(translatePigLatin("consonant"));
-console.log(translatePigLatin("algorithm"));
-console.log(translatePigLatin("california"));
-console.log(translatePigLatin("glove"));
+console.log(translatePigLatin("consonant")); // onsonantcay​​​​​
+console.log(translatePigLatin("algorithm")); // ​​​​​algorithmway​​​​​
+console.log(translatePigLatin("california")); // ​​​​​aliforniacay
+console.log(translatePigLatin("glove")); // ​​​​​oveglay​​​​​

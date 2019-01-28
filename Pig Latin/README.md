@@ -1,6 +1,6 @@
 # Pig Latin
 
-## Objective
+### Objective
 
 Translate a string to pig latin.
 
