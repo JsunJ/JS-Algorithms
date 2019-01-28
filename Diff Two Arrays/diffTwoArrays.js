@@ -23,6 +23,6 @@ function diffArray(arr1, arr2) {
   return newArr;
 }
 
-console.log(diffArray([0, 1, 2, 3, 4], [1, 2, 3, 4, 5])); // 4
+console.log(diffArray([0, 1, 2, 3, 4], [1, 2, 3, 4, 5])); // [0, 5]
 console.log(diffArray([], ["snuffleupagus", "cookie monster", "elmo"])); // ​​​​​['snuffleupagus', 'cookie monster', 'elmo']​​​​​
 console.log(diffArray([1, "calf", 3, "piglet"], [7, "filly"])); // ​​​​​[1, 'calf', 3, 'piglet', 7, 'filly']​​​​​
